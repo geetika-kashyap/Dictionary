@@ -1,0 +1,14 @@
+h1,#form{
+    text-align: center;
+}
+body{
+    background-color: rgb(114, 194, 196);
+}
+
+input,button,label{
+    font-size: 20px;
+}
+div{
+    font-size: 20px;
+    text-align: center;
+}
